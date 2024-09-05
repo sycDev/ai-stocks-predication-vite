@@ -26,6 +26,7 @@ header img {
 }
 
 header h1 {
+	text-align: center;
 	color: #F6F6F6;
 }
 
@@ -80,7 +81,7 @@ h2 {
 p.tag-line {
 	font-family: 'Comic Neue';
 	font-weight: 700;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 .ticker-choice-display {
@@ -133,7 +134,6 @@ input[type="text"] {
 
 .generate-report-btn {
 	font-family: 'Poppins', sans-serif;
-	width: 70%;
 	padding: 1em 1.5em;
 	cursor: pointer;
 	border: 2px solid #000000;
