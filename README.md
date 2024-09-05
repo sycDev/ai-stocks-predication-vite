@@ -1,4 +1,4 @@
-# AI Stocks Prediction with Vite
+# AI Stocks Prediction Web App
 
 A web application that uses AI to summarize stock performance and provide recommendations to buy, hold, or sell.
 
@@ -65,6 +65,8 @@ It integrates Polygon.io for real-time stock data and the Gemini API for AI-driv
 ## Usage
 
 **Input stock symbols** to generate and view performance summaries and recommendations.
+
+![screenshot](https://github.com/user-attachments/assets/71f2fa6e-1eca-4336-bcf0-ce88a2c393a4)
 
 ## API Documentation
 
