@@ -40,7 +40,6 @@ main {
 .output-panel {
 	line-height: 1.4em;
 	display: flex;
-	width: 50%;
 	flex-direction: column;
 	justify-content: space-around;
 	align-items: center;
