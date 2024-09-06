@@ -1,4 +1,4 @@
-# AI Stocks Prediction Web App
+# AI Stocks Predication Web App
 
 A web application that uses AI to summarize stock performance and provide recommendations to buy, hold, or sell.
 
@@ -17,13 +17,13 @@ It integrates Polygon.io for real-time stock data and the Gemini API for AI-driv
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/ai-stocks-prediction-vite.git
+    git clone https://github.com/sycDev/ai-stocks-predication-vite.git
     ```
 
 2. **Navigate to the Project Directory:**
 
     ```bash
-    cd ai-stocks-prediction-vite
+    cd ai-stocks-predication-vite
     ```
 
 3. **Install Dependencies:**
