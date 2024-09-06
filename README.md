@@ -66,7 +66,7 @@ It integrates Polygon.io for real-time stock data and the Gemini API for AI-driv
 
 **Input stock symbols** to generate and view performance summaries and recommendations.
 
-![screenshot](https://github.com/user-attachments/assets/71f2fa6e-1eca-4336-bcf0-ce88a2c393a4)
+![screenshot](https://github.com/user-attachments/assets/6228f0c2-7c02-4eee-a566-a2fdfadb493c)
 
 ## API Documentation
 
